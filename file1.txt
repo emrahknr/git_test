@@ -1,3 +1,4 @@
 Emrah Konur
 Turkcell
-ekleme yaptim!
+ekleme yaptim
+ikinci satir, ikinci commit!
